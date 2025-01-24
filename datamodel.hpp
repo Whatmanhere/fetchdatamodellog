@@ -1,5 +1,5 @@
 // Created By User on 1.20.2025 Using Clion
-#ifndef DATAMODEL_HPP //i was here --virtualtable
+#ifndef DATAMODEL_HPP //i was here
 #define DATAMODEL_HPP
 #include <Windows.h>
 #include <DbgHelp.h>
