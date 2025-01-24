@@ -1,5 +1,5 @@
 // Created By User on 1.20.2025 Using Clion
-#include "datamodel.hpp" //sorry for messy code -/whatman/virtualtable
+#include "datamodel.hpp" //sorry for messy code
 std::optional<std::string> fetchLatestLogFile(const std::string& directoryPath) {
     std::optional<std::string> newestFile;
     std::filesystem::file_time_type mostRecentTime;
